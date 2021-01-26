@@ -1,0 +1,12 @@
+{
+    "bg": "http://cdn29.us1.fansshare.com/pictures/assasinscreed2/assassin-creed-wallpaper-hd-game-background-games-picture-assassins-creed-hd-wallpaper-wallpaper-805350641.jpg",
+    "theme": {
+        "colors": {
+            "primary": "#C7C8CA",
+            "secondary": "#C1232C",
+            "text": "#2D2C2E",
+            "mainBg": "#171B35",
+            "contrastText": "#FFFFFF"
+        }
+    }
+}
